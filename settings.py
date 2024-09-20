@@ -2,7 +2,7 @@ TILE_SIZE = 64
 WINDOW_WIDTH = 1280
 WINDOW_HEIGHT = 720
 ANIMATION_SPEED = 8
-# editor graphics 
+# editor graphics
 EDITOR_DATA = {
 	0: {'style': 'player', 'type': 'object', 'menu': None, 'menu_surf': None, 'preview': None, 'graphics': r'C:\Users\Manan\OneDrive\Desktop\gomu-gomu\images\graphics\player\idle_right'},
 	1: {'style': 'sky',    'type': 'object', 'menu': None, 'menu_surf': None, 'preview': None, 'graphics': None},
